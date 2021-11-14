@@ -1,0 +1,19 @@
+{
+  "name": "vuepress",
+  "version": "0.0.1",
+  "description": "example vue-press site",
+  "main": "index.js",
+  "authors": {
+    "name": "şammas çölkesen",
+    "email": "sammascolkesen@gmail.com"
+  },
+  "repository": "https://github.com/kavanozkafa/vuepress.git/vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
